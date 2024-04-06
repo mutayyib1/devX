@@ -1,7 +1,6 @@
 // To Grade a text according to Coleman-Liau Index
 // Coleman-Liau Index gives passages their grades/classes for students
 #include <cs50.h>
-#include <ctype.h>
 #include <stdio.h>
 #include <string.h>
 
